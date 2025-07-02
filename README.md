@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I'm @Oxcheatcode 👾
+ I'm Cheatcode 👾
 
 Welcome to my corner of the decentralized web.
 
