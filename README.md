@@ -11,7 +11,7 @@ I'm a Solidity developer and blockchain builder focused on creating secure, scal
 ## 🧑‍💻 About Me
 
 - 🏗️ **Founder of Blockcraft Labs** — a Web3 dev agency helping founders and innovators ship high-quality blockchain products with speed and reliability
-- 💼 **Chief Operating Officer & Business Developer at Kaizen Labs** — driving innovation and operational excellence in emerging tech
+- 💼 **Chief Operating Officer & Business Developer at [Kaizen Labs](http://x.com/KZNlabs)** — driving innovation and operational excellence in emerging tech
 - 🛠️ Learning smart contract development with [Cyfrin Updraft](https://www.cyfrin.io/updraft)
 - 🔐 Focused on DeFi, protocol architecture, and smart contract security
 - 🧱 Learning **Sui Move**, the native language of the Sui blockchain
