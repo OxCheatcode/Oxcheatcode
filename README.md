@@ -58,7 +58,7 @@ A personalized, self-learning trading automation tool with real-time strategy ex
 ## 📫 Connect With Me
 
 - 🧵 X (Twitter): [@Oxcheatcode](https://x.com/Oxcheatcode)
-- 📩 Gmail (Gmail): [Cheatcode](collinxlawrence@gmail.com)
+- 📩 Gmail: [Cheatcode](collinxlawrence@gmail.com)
 - 🧪 Sharing my journey through #100DaysOfSolidity & #MoveOnSui
 - 📬 Open to: Roles in Web3, dev collaborations, and AI-powered dApp ideas
 
