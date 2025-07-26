@@ -23,9 +23,14 @@ I'm a Solidity developer and blockchain builder focused on creating secure, scal
 
 ## 🚧 What I'm Building
 
-### 🪙 Decentralized Stablecoin Protocol  
-> Built during the Cyfrin Updraft Solidity Bootcamp  
-An overcollateralized stablecoin protocol using Chainlink oracles, liquidation logic, and Foundry-based testing.
+### BlockCraft Labs
+Blockcraft Labs is a developer agency and venture studio focused on building:
+
+* AI-driven SaaS products for emerging markets
+* Financial tools that improve access, speed, and trust
+* Modular wallet infrastructure and embedded finance APIs
+
+We also provide dev services to startups solving real problems in fintech, Web3, AI and Security.
 
 ### 🤖 Centron Bot  
 > AI-powered trading bot on the Sui blockchain  
