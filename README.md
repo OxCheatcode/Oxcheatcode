@@ -4,7 +4,7 @@
 
 Welcome to my corner of the decentralized web.
 
-I'm a Solidity developer and blockchain builder focused on creating secure, scalable, and user-focused Web3 solutions. Currently enrolled in the **Cyfrin Updraft Bootcamp**, I'm deepening my smart contract expertise while also exploring AI, trading automation, and the Sui blockchain.
+I'm a Smart contract developer and blockchain builder focused on creating secure, scalable, and user-focused Web3 solutions. Currently enrolled in the **Cyfrin Updraft Bootcamp**, I'm deepening my smart contract expertise while also exploring AI, trading automation, and the Sui blockchain.
 
 ---
 
