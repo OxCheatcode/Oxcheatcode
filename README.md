@@ -62,12 +62,12 @@ A personalized, self-learning trading automation tool with real-time strategy ex
 
 ## 📫 Connect With Me
 
-- 🧵 X (Twitter): [@Oxcheatcode](https://x.com/Oxcheatcode)
+- 🧵 X (Twitter): [Cheatcode](https://x.com/Oxcheatcode)
 - 📩 Gmail: [Cheatcode](collinxlawrence@gmail.com)
 - 🧪 Sharing my journey through Web3 Development
 - 📬 Open to: Roles in Web3, dev collaborations, and AI-powered dApp ideas
 
 ---
 
-> "Code as if the future depends on it — because in Web3, it might."
+> "If you can code it, then you can build it."
 
